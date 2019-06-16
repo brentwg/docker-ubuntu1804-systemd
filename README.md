@@ -1,5 +1,7 @@
 # Ubuntu 18.04 LTS - Bionic - Test Image with systemd
 
+[![Build Status](https://travis-ci.org/brentwg/docker-ubuntu1804-systemd.svg?branch=master)](https://travis-ci.org/brentwg/docker-ubuntu1804-systemd)
+
 Ubuntu 18.04 LTS (Bionic) Docker container with systemd for testing basic validation of bash automation scripts.
 
 ## Prerequisite for Building
