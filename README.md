@@ -20,6 +20,6 @@ docker build -t ubuntu1804-systemd .
 
 To run a container from this image:
 ```
-docker run --detach --privileged --volume=/sys/fs/cgroup:/sys/fs/cgroup:ro bgawryluik/docker-ubuntu1804-systemd:latest
+docker run --detach --privileged --volume=/sys/fs/cgroup:/sys/fs/cgroup:ro brentwg/docker-ubuntu1804-systemd:latest
 ```
 
